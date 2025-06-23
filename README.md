@@ -32,6 +32,6 @@
 ### 📊 Stats
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=atafula&show_icons=true&locale=en&theme=catppuccin_mocha&include_all_commits=true" alt=atafula />
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atafula&layout=compact&theme=catppuccin_mocha" /></p> 
+<!--<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atafula&layout=compact&theme=catppuccin_mocha" /></p> 
 
 
